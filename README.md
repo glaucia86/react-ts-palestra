@@ -22,3 +22,8 @@ Caso queiram que eu implemente algo no código, abram uma issue nesse repositór
 
 
 Espero que possam gostar das vídeos aulas dessa nova série no meu canal!!! Não esqueçam de dar uma :star: no repositório e claro: Apreciem sem moderação!! :heart: :heart: :heart:
+
+
+<p align="center">
+  <img src="https://i.imgur.com/dLSzYDT.gif"/>  
+</p>
