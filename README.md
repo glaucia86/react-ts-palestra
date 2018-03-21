@@ -2,6 +2,7 @@
 
 
 ![alt text](https://i.imgur.com/R2dCiON.gif)
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 <p align="center">
   <img src="https://i.imgur.com/R2dCiON.gif"/>
 </p>
