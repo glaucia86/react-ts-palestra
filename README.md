@@ -1,7 +1,7 @@
 # Palestra Reaect Rio: React com TypeScript - É Possível?! by Glaucia Lemos
 
 <p align="center">
-  <img src="https://i.imgur.com/pA6SRQ6.gif"/>  
+  <img src="https://imgur.com/251SJwL"/>  
 </p>
 
 
