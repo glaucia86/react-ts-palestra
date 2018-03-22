@@ -1,0 +1,24 @@
+{
+  "name": "react-ts-palestra",
+  "version": "1.0.0",
+  "description": "Uma breve demo em como usar o React com Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/glaucia86/react-ts-palestra.git"
+  },
+  "keywords": [
+    "typescript",
+    "react",
+    "webpack"
+  ],
+  "author": "Glaucia Lemos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/glaucia86/react-ts-palestra/issues"
+  },
+  "homepage": "https://github.com/glaucia86/react-ts-palestra#readme"
+}
