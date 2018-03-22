@@ -15,6 +15,38 @@ Demo do uso de React com Typescript para a palestra do React Rio
 - TypeScript 2.x - [LINK PARA BAIXAR](https://www.typescriptlang.org/)
 - React - [LINK](https://reactjs.org/)
 
+## Executando o projeto localmente:
+
+Caso você deseja executar o projeto na sua máquina local, basta seguir os passos abaixo:
+
+## Começando:
+
+Para começar, você deve simplesmente clonar o repositório do projeto na sua máquina e instalar as dependências. Mas, antes você precisa instalar de maneira global o Typescript:
+
+```
+npm install -g typescript
+```
+
+Ao digitar o comando:
+
+```
+tsc --v 
+```
+
+E aparecer a versão do Typescript é porque está tudo instalado certinho.
+Depois, basta instalar as dependências (dentro da pasta do projeto) com o seguinte comando:
+
+```
+npm install
+```
+
+Para executar enfim a aplicação, digite o comando:
+
+```
+npm run dev
+```
+
+Caso tenha alguma dificuldade para instalar as dependências ou para executar o projeto peço que abre uma Issue sobre o problema. Assim, poderemos todos juntos discutir o que aconteceu! :D
 
 ## Quer Propor Melhorias no Código? Façam Pull Request!!!
 

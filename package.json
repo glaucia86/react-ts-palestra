@@ -22,9 +22,12 @@
     },
     "homepage": "https://github.com/glaucia86/react-ts-palestra#readme",
     "dependencies": {
-        "@types/react": "^16.0.25",
-        "@types/react-dom": "^16.0.3",
+        "@types/react": "^16.0.40",
+        "@types/react-dom": "^16.0.4",
+        "react": "^16.2.0",
+        "react-dom": "^16.2.0",
         "ts-loader": "^3.1.1",
+        "typescript": "^2.7.2",
         "webpack": "^3.8.1"
     }
 }
