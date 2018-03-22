@@ -1,29 +1,30 @@
 {
-  "name": "react-ts-palestra",
-  "version": "1.0.0",
-  "description": "Uma breve demo em como usar o React com Typescript",
-  "main": "index.js",
-  "scripts": {
-    "dev": "webpack",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/glaucia86/react-ts-palestra.git"
-  },
-  "keywords": [
-    "typescript",
-    "react",
-    "webpack"
-  ],
-  "author": "Glaucia Lemos",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/glaucia86/react-ts-palestra/issues"
-  },
-  "homepage": "https://github.com/glaucia86/react-ts-palestra#readme",
-  "dependencies": {
-    "ts-loader": "^4.1.0",
-    "webpack": "^4.2.0"
-  }
+    "name": "react-ts-palestra",
+    "version": "1.0.0",
+    "description": "Uma breve demo em como usar o React com Typescript",
+    "main": "index.js",
+    "scripts": {
+        "dev": "webpack"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/glaucia86/react-ts-palestra.git"
+    },
+    "keywords": [
+        "typescript",
+        "react",
+        "webpack"
+    ],
+    "author": "Glaucia Lemos",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/glaucia86/react-ts-palestra/issues"
+    },
+    "homepage": "https://github.com/glaucia86/react-ts-palestra#readme",
+    "dependencies": {
+        "@types/react": "^16.0.25",
+        "@types/react-dom": "^16.0.3",
+        "ts-loader": "^3.1.1",
+        "webpack": "^3.8.1"
+    }
 }
