@@ -43,8 +43,10 @@ npm install
 Para executar enfim a aplicação, digite o comando:
 
 ```
-npm run dev
+npm start
 ```
+
+O projeto irá executar no endereço: **http://localhost:8080**
 
 Caso tenha alguma dificuldade para instalar as dependências ou para executar o projeto peço que abre uma Issue sobre o problema. Assim, poderemos todos juntos discutir o que aconteceu! :D
 
