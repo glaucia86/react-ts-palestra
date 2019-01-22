@@ -50,14 +50,9 @@ O projeto irá executar no endereço: **http://localhost:8080**
 
 Caso tenha alguma dificuldade para instalar as dependências ou para executar o projeto peço que abre uma Issue sobre o problema. Assim, poderemos todos juntos discutir o que aconteceu! :D
 
-## Quer Propor Melhorias no Código? Façam Pull Request!!!
+## Desejam Propor Melhorias no Código? Façam Pull Request!!!
 
 Caso queiram que eu implemente algo no código, abram uma issue nesse repositório. Assim, todos poderão colaborar para o melhor desenvolvimento desse repositório. E sintam-se à vontade em fazer Pull Requests!!
 
 
 Espero que possam gostar das vídeos aulas dessa nova série no meu canal!!! Não esqueçam de dar uma :star: no repositório e claro: Apreciem sem moderação!! :heart: :heart: :heart:
-
-
-<p align="center">
-  <img src="https://i.imgur.com/dLSzYDT.gif"/>  
-</p>
