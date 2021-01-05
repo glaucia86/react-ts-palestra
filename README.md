@@ -10,7 +10,7 @@ Demo do uso de React com Typescript para a palestra do React Rio
 
 ## Recursos Utilizados no Desenvolvimento da Aplicação:
 
-- Visual Studio Code - [LINK PARA BAIXAR](https://code.visualstudio.com/)
+- Visual Studio Code - [LINK PARA BAIXAR](https://code.visualstudio.com/?WT.mc_id=javascript-0000-gllemos)
 - Node.Js - [LINK PARA BAIXAR](https://nodejs.org/en/)
 - TypeScript 2.x - [LINK PARA BAIXAR](https://www.typescriptlang.org/)
 - React - [LINK](https://reactjs.org/)
