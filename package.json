@@ -41,6 +41,6 @@
     "typescript": "^2.7.1",
     "url-loader": "^0.6.2",
     "webpack": "^3.10.0",
-    "webpack-dev-server": "^2.11.1"
+    "webpack-dev-server": "^4.11.0"
   }
 }
